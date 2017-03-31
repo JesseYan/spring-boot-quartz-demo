@@ -1,4 +1,4 @@
-package com.kaviddiss.bootquartz.spring;
+package com.kanche.quartz.spring;
 
 import org.quartz.spi.TriggerFiredBundle;
 import org.springframework.beans.factory.config.AutowireCapableBeanFactory;

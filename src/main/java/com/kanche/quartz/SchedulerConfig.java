@@ -1,7 +1,7 @@
-package com.kaviddiss.bootquartz;
+package com.kanche.quartz;
 
-import com.kaviddiss.bootquartz.job.SampleJob;
-import com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory;
+import com.kanche.quartz.job.SampleJob;
+import com.kanche.quartz.spring.AutowiringSpringBeanJobFactory;
 import liquibase.integration.spring.SpringLiquibase;
 import org.quartz.JobDetail;
 import org.quartz.SimpleTrigger;

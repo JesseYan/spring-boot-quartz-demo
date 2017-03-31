@@ -1,6 +1,6 @@
-package com.kaviddiss.bootquartz;
+package com.kanche.quartz;
 
-import com.kaviddiss.bootquartz.job.SampleJob;
+import com.kanche.quartz.job.SampleJob;
 import org.quartz.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;

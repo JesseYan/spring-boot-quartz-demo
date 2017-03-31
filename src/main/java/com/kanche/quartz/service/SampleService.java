@@ -1,6 +1,6 @@
-package com.kaviddiss.bootquartz.service;
+package com.kanche.quartz.service;
 
-import com.kaviddiss.bootquartz.job.SampleJob;
+import com.kanche.quartz.job.SampleJob;
 import org.quartz.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
